@@ -1,0 +1,5 @@
+h1{text-align:center; color:blue;}
+footer{width:100%;position:absolute; bottom:15px; border-top: 2px solid gray;}
+footer div.copyright{text-align:right; padding-right:20px;margin-top:15px;float:right}
+footer div.social{padding-left:20px;margin-top:15px;display:inline-block;}
+.intro{font-size: 1.6em; }
